@@ -1,5 +1,10 @@
 # USMAN ALI 
-- 🔭 I’m currently working on Wearify (FYP) – a MENN-based virtual try-on system with Python-powered processing<br>👯 - I’m looking to collaborate on<br>Web & frontend projects (React, Next.js) - MERN / MENN stack applications - UI-focused SaaS or startup ideas<br>🤝 I’m looking for help with<br>Advanced backend patterns in Node.js & MongoDB - Improving system architecture for scalable full-stack apps<br>🌱 I’m currently learning - Full-Stack development (MENN & MERN) - Backend optimization, APIs, and deployment workflows<br>💬 Ask me about - PHP & database-driven web apps - Frontend development (React, Next.js, ShadCN, Material UI) - Building real-world projects for university & clients<br>⚡ Fun fact - I started with PHP and now I’m transitioning into modern full-stack JavaScript ecosystems
+🔭 I’m currently working on Wearify (FYP) – a MENN-based virtual try-on system with Python-powered processing<br>
+👯 I’m looking to collaborate on<br>Web & frontend projects (React, Next.js) - MERN / MENN stack applications - UI-focused SaaS or startup ideas<br>
+🤝 I’m looking for help with<br>Advanced backend patterns in Node.js & MongoDB - Improving system architecture for scalable full-stack apps<br>
+🌱 I’m currently learning - Full-Stack development (MENN & MERN) - Backend optimization, APIs, and deployment workflows<br>
+💬 Ask me about - PHP & database-driven web apps - Frontend development (React, Next.js, ShadCN, Material UI) - Building real-world projects for university & clients<br>
+⚡ Fun fact - I started with PHP and now I’m transitioning into modern full-stack JavaScript ecosystems
 
 
 ## 🌐 Socials:
