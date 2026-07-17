@@ -1,9 +1,9 @@
 # USMAN ALI 
-🔭 I’m currently working on Wearify (FYP) – a MERN-based virtual try-on system with Python-powered processing<br>
+🔭 I’m have recently completed Wearify (FYP) – a MERN-based virtual try-on system with Python-powered processing<br>
 👯 I’m looking to collaborate on - Web & frontend projects (React, Next.js) - MERN & Next.js stack applications - UI-focused SaaS or startup ideas<br>
 🤝 I’m looking for help with - Advanced backend patterns in Node.js & MongoDB - Improving system architecture for scalable full-stack <br>
-🌱 I’m currently learning - Full-Stack development (MERN & Next.js) - Backend optimization, APIs, and deployment workflows<br>
-💬 Ask me about - PHP & database-driven web apps - Frontend development (React, Next.js, ShadCN, Material UI) - Building real-world projects for university & clients<br>
+🌱 I’m currently polishing my skills of - Full-Stack development (MERN & Next.js) - Backend optimization, APIs, and deployment workflows<br>
+💬 Ask me about - (MERN stack , Laravel , php , python ) - Frontend development (React, Next.js , vue.js , Nust.js , ShadCN, Material UI , Tailwind ) - Building real-world projects for university , clients and for my firm <br>
 ⚡ Fun fact - I started with PHP and now I’m transitioning into modern full-stack JavaScript ecosystems
 
 
