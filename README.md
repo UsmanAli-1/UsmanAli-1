@@ -1,10 +1,97 @@
 # USMAN ALI 
-🔭 I have recently completed Wearify (FYP) – a MERN-based virtual try-on system with Python-powered processing<br>
-👯 I’m looking to collaborate on - Web & frontend projects (React, Next.js) - MERN & Next.js stack applications - UI-focused SaaS or startup ideas<br>
-🤝 I’m looking for help with - Advanced backend patterns in Node.js & MongoDB - Improving system architecture for scalable full-stack <br>
-🌱 I’m currently polishing my skills of - Full-Stack development (MERN & Next.js) - Backend optimization, APIs, and deployment workflows<br>
-💬 Ask me about - (MERN stack , Laravel , php , python ) - Frontend development (React, Next.js , vue.js , Nust.js , ShadCN, Material UI , Tailwind ) - Building real-world projects for university , clients and for my firm <br>
-⚡ Fun fact - I started with PHP and now I’m transitioning into modern full-stack JavaScript ecosystems
+# 👋 Hi, I'm Usman Ali
+
+### Full Stack Engineer | MERN Stack | Node.js | React | Next.js | Laravel
+
+🔭 Currently working as a **Full Stack Engineer at Start X Digitals**, building enterprise applications, automation systems, and scalable backend solutions using Node.js , Python , Laravel , Vue.js , React.js , Postgres , Mysql.
+
+💼 Previously worked as a **Full Stack Developer at Supersoft Technologies**, where I maintained and developed multiple production-ready ERP systems, CRM platforms, HRM solutions, admin dashboards, customer portals, trademark management systems, and business websites using Laravel, Node.js , Python, and MySQL.
+
+🚀 Earlier worked as a **PHP Developer at Core Digitals** and as a **Frontend Developer at Ayan Tech**, gaining strong experience in frontend engineering and backend development.
+
+🎓 Recently graduated with a **Bachelor's in Computer Science**.
+
+👨‍💻 Led the development of **Wearify**, an AI-powered Virtual Try-On & Outfit Recommendation System built using **MERN, Python, and React Native**, where I served as the Team Lead and Full Stack Developer, handling backend architecture, frontend development, and AI recommendation integration.
+
+🌱 Currently focused on:
+
+* Backend Engineering
+* MERN Stack Development
+* Scalable API Architecture
+* AI Integrations
+* Email Automation Systems
+* Lead Generation Platforms
+* Enterprise Software Development
+
+💬 Ask me about:
+
+* MERN Stack
+* Node.js & Express.js
+* React & Next.js
+* Laravel & PHP
+* PostgreSQL, MongoDB & MySQL
+* Python
+* REST APIs
+* Enterprise Application Development
+* System Architecture
+
+👯 Open to collaborate on:
+
+* Full Stack Applications
+* SaaS Products
+* MERN Projects
+* Ongoing Projects
+* Open Source Contributions
+* Startup Ideas
+* AI-powered Web Applications
+
+⚡ Fun Fact:
+I started my journey with **PHP & Laravel**, later expanded into **MERN Stack**, and now build production-grade applications across **Node.js, React, Vue.js, Laravel, Python, and modern cloud technologies.**
+
+---
+
+# 🚀 Professional Highlights
+
+* 💼 3+ Years of Professional Experience
+* 🏢 Worked across four software companies
+* 🚀 Built & maintained production-ready enterprise applications
+* 🧩 Experience with ERP, CRM, HRM & Admin Dashboard systems
+* 🌍 Delivered multiple customer-facing full-stack web applications
+* 🤖 Building AI-powered Email Automation & Lead Generation Systems
+* 📈 Strong focus on scalable backend development and clean architecture
+
+---
+
+# 💻 Preferred Tech Stack
+
+### 🚀 Backend
+
+Node.js • Express.js • Laravel • PHP • Python
+
+### 🎨 Frontend
+
+React • Next.js • Vue.js • JavaScript • TypeScript • Tailwind CSS • ShadCN UI • Material UI • Bootstrap
+
+### 🗄 Databases
+
+PostgreSQL • MongoDB • MySQL • MariaDB
+
+### ☁️ Dev Tools
+
+Git • GitHub • Vercel • Firebase • Apache • render • cpanel • railway 
+
+---
+
+# 🎯 Currently Working On
+
+* ✉️ Email Automation Platform
+* 🤖 Auto Lead Generation System
+* 🏢 Enterprise HRM & Payment Systems
+* 📊 Trademark Management Platform
+* ⚡ Backend Performance Optimization
+* 🏗 Scalable API & System Architecture
+* AI-powered Business Automation
+
 
 
 ## 🌐 Socials:
