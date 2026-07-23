@@ -1,4 +1,3 @@
-# USMAN ALI 
 # 👋 Hi, I'm Usman Ali
 
 ### Full Stack Engineer | MERN Stack | Node.js | React | Next.js | Laravel
